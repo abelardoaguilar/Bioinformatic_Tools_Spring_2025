@@ -1,0 +1,11 @@
+open fold_sequence_1_model_0.cif
+open fold_sequence_2_model_0.cif
+open fold_sequence_3_model_0.cif
+open fold_sequence_4_model_0.cif
+open fold_sequence_5_model_0.cif
+open fold_sequence_6_model_0.cif
+
+matchmaker #2-6 to #1
+
+tile
+tile
